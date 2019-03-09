@@ -2,7 +2,7 @@
     "app": {
         "port": 3000,
         "host": "localhost",
-        "name": "Hapi-Boilerplate",
+        "name": "hapi-boilerplate",
         "logLevel": "info"
     }
 }
