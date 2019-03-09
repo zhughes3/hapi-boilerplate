@@ -4,6 +4,7 @@ const config = require('config');
 
 const Server = require('./server');
 const logger = require('./server/utils/logger');
+const db = require('./database');
 
 const gracefulStopServer = function() {
     server.stop({timeout: 10 * 1000}, () => {

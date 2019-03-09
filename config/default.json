@@ -4,5 +4,8 @@
         "host": "localhost",
         "name": "hapi-boilerplate",
         "logLevel": "info"
+    },
+    "database": {
+        "url": "mongodb://localhost/hapi-boilerplate"
     }
 }
