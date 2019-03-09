@@ -1,0 +1,32 @@
+{
+  "name": "hapi-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhughes3/hapi-boilerplate.git"
+  },
+  "keywords": [
+    "Node",
+    "Hapi.js"
+  ],
+  "author": "Zachary Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhughes3/hapi-boilerplate/issues"
+  },
+  "homepage": "https://github.com/zhughes3/hapi-boilerplate#readme",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "config": "^3.0.1",
+    "glob": "^7.1.3",
+    "hapi": "^18.1.0",
+    "inert": "^5.1.2",
+    "lodash": "^4.17.11",
+    "vision": "^5.4.4"
+  }
+}
